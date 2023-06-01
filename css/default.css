@@ -1,0 +1,25 @@
+ body{
+    margin:0;
+	font-family:Verdana, Geneva, sans-serif;
+    background: #f9f9f7 url(../Imagenes/Bandera\ CR.jpg) repeat-x;
+ } 
+ #header #logo{
+    text-align: center;
+    text-decoration: double;
+ } 
+ 
+a:hover{
+    text-decoration: none;
+}
+#primarycontent .post .header{
+    text-align: center;
+}
+
+#footer{
+    border-top: double;
+    clear: both;
+    height: 66px;
+    text-align: center;
+    color: #8a8a8d;
+    padding-top: 15px;
+}
